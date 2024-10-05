@@ -24,7 +24,7 @@
 <h2>Setup</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/weather-app.git</code></pre>
+    <pre><code>git clone https://github.com/yourusername/weather-react-application.git</code></pre>
   </li>
   <li>Install the dependencies:
     <pre><code>npm install</code></pre>
